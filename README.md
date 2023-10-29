@@ -1,4 +1,4 @@
-# Billable-rate invoice Generator
+# Billable-rate Invoice Generator
 
 Carried out an automation testing for a law firm that requires an web-app that accepts only csv-file Extension to generate an invoice for their employees.
 
